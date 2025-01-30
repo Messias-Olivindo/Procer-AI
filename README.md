@@ -12,7 +12,7 @@ Projeto do Hackhaton Inteli 2025 - Assistente na comunicação entre equipe para
   <li><a href= "https://github.com/t4qss">Erik Taquemori Vieir</a></li> 
   <li><a href= "https://github.com/Messias-Olivindo">Messias Fernandes de Olivindo </a></li>
   <li><a>Rafael Gomes Ferreira</a></li>
-  <li><a>Yudi nakamura trevisani omaki</a></li>
+  <li><a>Yudi Nakamura Trevisani Omaki</a></li>
 </ul>
 </p>
 
