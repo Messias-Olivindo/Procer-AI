@@ -12,7 +12,7 @@ Projeto do Hackhaton Inteli 2025 - Assistente na comunicação entre equipe para
   <li><a href= "https://github.com/taqss">Erik Taquemori Vieira</a></li> 
   <li><a href= "https://github.com/Messias-Olivindo">Messias Fernandes de Olivindo </a></li>
   <li><a href = "https://github.com/gomes-raf">Rafael Gomes Ferreira</a></li>
-  <li><a href = "https://github.com/thuliobacco"></a>Thulio Sallum Bacco Pinto</li>
+  <li><a href = "https://github.com/thuliobacco">Thulio Sallum Bacco Pinto</a></li>
   <li><a href = "https://github.com/yudiomaki1">Yudi Nakamura Trevisani Omaki</a></li>
 </ul>
 </p>
