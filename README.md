@@ -6,7 +6,7 @@ Projeto do Hackhaton Inteli 2025 - Assistente na comunicação entre equipe para
 
 <h2>👥 Integrantes do grupo</h2>
 <p><ul> 
-  <li><a href = "https://github.com/AlessandraNascimento-Inteli" target = "_blank">Alessandra Nascimento Santos Sena</a></li>
+  <li><a href = "https://github.com/AlessandraNascimento-Inteli">Alessandra Nascimento Santos Sena</a></li>
   <li><a href = "https://github.com/deborangueira">Débora Pereira Nogueira</a></li> 
   <li><a href = "https://github.com/Yappets">Elias Maximíliano Apaza</a></li> 
   <li><a href= "https://github.com/t4qss">Erik Taquemori Vieira</a></li> 
