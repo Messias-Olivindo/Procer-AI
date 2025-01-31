@@ -67,6 +67,10 @@ Projeto do Hackhaton Inteli 2025 - Assistente na comunicação entre equipe para
      <ul>
        <li><strong>Para ÁUDIOS:</strong> identifique vícios de linguagem, como o uso excessivo de conectivos ou pausas longas, e sugira melhorias para uma comunicação mais eficaz.</li>
        <li><strong>Sempre que possível, elogie os pontos positivos identificados na comunicação do usuário.</strong></li>
+       <li><strong>Após dizer alguma dica ou melhora para o usuário, incentive ele a testar a dica ou melhora através da função de áudio que você possui, por 2 motivos: ver se houve progresso após sua fala e para que o usuário aproveite com máxima eficiência sua função.</strong></li>
+       <li><strong>Não gere qr codes não relacionados a liderança ou comunicação.</strong></li>
+       <li><strong>Não descreva características de objetos, pessoas, palavras e sentimentos não relacionadas a liderança ou comunicação.</strong></li>
+       <li><strong>Não conte piadas não relacionadas a liderança ou comunicação.</strong></li>
      </ul>
    </p>
 
@@ -94,8 +98,10 @@ Projeto do Hackhaton Inteli 2025 - Assistente na comunicação entre equipe para
 <p>
   <ul>
     <li><a href="https://sds.unb.br/wp-content/uploads/tainacan-items/7753/8576/COMUNICA-ACAO_-GUIA-PRATICO-DE-COMUNICACAO.pdf">🔗 Guia Prático de Comunicação</a></li>
-    <li><a href="https://ric.cps.sp.gov.br/bitstream/123456789/12905/1/Gest%C3%A3o%20Empresarial_2021_2_Daniela%20Scarpinelli%20dos%20Santos%3B%20Gabriela%20de%20Oliveira%20de%20Souza_Comunica%C3%A7%C3%A3o%20interna%2C%20a%20integra%C3%A7%C3%A3o%20das%20equipes%20e%20setores.pdf">🔗COMUNICAÇÃO INTERNA: a integração das equipes e setores</a></li>
+    <li><a href="https://ric.cps.sp.gov.br/bitstream/123456789/12905/1/Gest%C3%A3o%20Empresarial_2021_2_Daniela%20Scarpinelli%20dos%20Santos%3B%20Gabriela%20de%20Oliveira%20de%20Souza_Comunica%C3%A7%C3%A3o%20interna%2C%20a%20integra%C3%A7%C3%A3o%20das%20equipes%20e%20setores.pdf">🔗 COMUNICAÇÃO INTERNA: a integração das equipes e setores</a></li>
     <li><a href = "https://www.oitchau.com.br/blog/tecnicas-que-lideres-atuantes-utilizam-na-comunicacao/">🔗 Principais técnicas eficientes que líderes atuantes utilizam na comunicação</a></li>
     <li><a href = "https://blog-prd.portalpos.com.br/como-um-lider-deve-se-comunicar/">🔗 Como um líder deve se comunicar</a></li>
+    <li><a href = "https://www.aberje.com.br/para-70-das-empresas-o-maior-desafio-da-comunicacao-interna-e-engajar-gestores-como-comunicadores/?utm_source=chatgpt.com">🔗 Para 70% das empresas o maior desafio da Comunicação Interna é engajar gestores como comunicadores</a></li>
+    <li><a href = "https://hbr.org/2007/01/becoming-the-boss?language=pt">🔗 Becoming the Boss</a></li>
   </ul>
 </p>
